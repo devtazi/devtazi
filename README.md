@@ -14,7 +14,7 @@ Passionate about AI, Computer Vision and Deep Tech
 
 ---
 
-### 🤝 Beyond code
+### 🤝 Activities
 
 - Member @ **Atlas Partners Consulting Group**
 - Co-founder of a regional chapter of **Kryptosphere** (Europe's largest student tech network)
