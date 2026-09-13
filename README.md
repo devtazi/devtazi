@@ -18,3 +18,9 @@ Passionate about AI, Computer Vision and Deep Tech
 
 - Member @ **Atlas Partners Consulting Group**
 - Co-founder of a regional chapter of **Kryptosphere** (Europe's largest student tech network)
+
+### 🙋 A bit about me
+
+- 🥋 Brazilian Jiu-Jitsu practitioner
+- 📚 Avid reader
+- 🌿 Hiking & Perfumery enthusiast
