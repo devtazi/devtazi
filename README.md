@@ -1,4 +1,4 @@
-# Hi, I'm Adam 👋
+## Hi, I'm Adam 👋
 
 Engineering student at **IMT Mines Alès** (AI & Data Science, class of 2027), currently doing research at the **University of Malaya** on real-time sign language translation using Computer Vision.
 
@@ -8,13 +8,13 @@ Passionate about AI, Computer Vision and Deep Tech
 
 ---
 
-## 🛠️ Tech stack
+### 🛠️ Tech stack
 
 `Python` `PyTorch` `TensorFlow` `OpenCV` `MediaPipe` `NumPy` `Pandas` `Flutter` `Java` `SQL` `Git` `LaTeX` `Linux` `Alloy`
 
 ---
 
-## 🤝 Beyond code
+### 🤝 Beyond code
 
 - Member @ **Atlas Partners Consulting Group**
 - Co-founder of a regional chapter of **Kryptosphere** (Europe's largest student tech network)
