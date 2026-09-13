@@ -2,14 +2,9 @@
 
 Engineering student at **IMT Mines Alès** (AI & Data Science, class of 2027), currently doing research at the **University of Malaya** on real-time sign language translation using Computer Vision.
 
-I'm interested in the gap between research and production — building models that actually hold up when deployed.
+I'm interested in the gap between research and production - building models that actually hold up when deployed.
 
----
-
-## 🔭 What I'm working on
-
-- Real-time fingerspelling recognition system deployed on mobile (Flutter) — tackling coarticulation in sign language with a custom dataset pipeline. Scientific publication in progress.
-- Previously: R&D study on the limits of **mAP in object detection** at L2TI (Institut Galilée), with Python simulations and evaluation of alternatives (oLRP, TIDE).
+Passionate about AI, Computer Vision and Deep Tech 
 
 ---
 
@@ -18,7 +13,6 @@ I'm interested in the gap between research and production — building models th
 `Python` `PyTorch` `TensorFlow` `OpenCV` `MediaPipe` `NumPy` `Pandas` `Flutter` `SQL` `Git` `LaTeX` `Linux`
 
 ---
-
 
 ## 🤝 Beyond code
 
