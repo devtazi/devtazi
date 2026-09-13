@@ -10,18 +10,11 @@ Passionate about AI, Computer Vision and Deep Tech
 
 ## 🛠️ Tech stack
 
-`Python` `PyTorch` `TensorFlow` `OpenCV` `MediaPipe` `NumPy` `Pandas` `Flutter` `SQL` `Git` `LaTeX` `Linux`
+`Python` `PyTorch` `TensorFlow` `OpenCV` `MediaPipe` `NumPy` `Pandas` `Flutter` `Java` `SQL` `Git` `LaTeX` `Linux` `Alloy`
 
 ---
 
 ## 🤝 Beyond code
 
-- @ **Atlas Partners Consulting Group**
+- Member @ **Atlas Partners Consulting Group**
 - Co-founder of a regional chapter of **Kryptosphere** (Europe's largest student tech network)
-
----
-
-## 📫 Get in touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam_Tazi-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/adam-tazi)
-[![Email](https://img.shields.io/badge/Email-adam.tazi%40mines--ales.fr-D14836?style=flat&logo=gmail)](mailto:adam.tazi@mines-ales.fr)
